@@ -6,12 +6,6 @@ Jobly is a RESTful API job application platform. Built to exercise implementatio
 
 **This is a working project and is still not complete.
 
-To run this:
-
-node server.js
-To run the tests:
-
-jest -i
 
 
 
